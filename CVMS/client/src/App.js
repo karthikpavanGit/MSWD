@@ -3,7 +3,18 @@ import './App.css';
 
 function App() {
   return (
-   <img src='http://thewowstyle.com/wp-content/uploads/2015/01/free-beautiful-place-wallpaper-hd-173.jpg'></img>
+    <div class="App">
+      <h1>Header</h1>
+      <h3>Contact</h3>
+      <h3>About</h3>
+      <h3>faculty</h3>
+      <h3>login</h3>
+      <h3>logout</h3>
+      <h3>parent</h3>
+      <h3>report</h3>
+      <h3>visitor</h3>
+      <h2>Footer</h2>
+    </div>
   );
 }
 
